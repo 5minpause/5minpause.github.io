@@ -26,3 +26,4 @@ Most of the time I look a lot like this:
 
 ![]({{ "/assets/profile-small.jpg" | absolute_url }})
 
+Feel free to reach out to me.
