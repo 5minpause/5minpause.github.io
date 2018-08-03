@@ -2,7 +2,7 @@
 layout: post
 title: "The bullshit web and our responsibility"
 categories: "newsletter"
-date: 2018-08-02 15:00:00 +2000
+date: 2018-08-02 15:00:00 +0200
 ---
 
 > My home computer in 1998 had a 56K modem connected to our telephone line; we were allowed a maximum of thirty minutes of computer usage a day, because my parents — quite reasonably — did not want to have their telephone shut off for an evening at a time. I remember webpages loading slowly: ten to twenty seconds for a basic news article.
@@ -23,7 +23,7 @@ So losing your job might be possible, and it's a hassle to have a new one even i
 When discussing with clients who want to have all these trackers and beacons… I was thinking about how one could argue that getting rid of them is in their best interest. One thought that came to my mind is, that these models aren't as successful for (e.g.) newspaper companies, as they'd like them to be. A few of them (New York Time for example) try to make a subscription model work. You pay them a monthly or yearly price and get access to more content. I believe that users are more willing to pay if their experience is better, I they enjoy the product more than the alternative of not having it. And their target audience is people who value quality-news enough that they are willing to pay for it. And they have the choice between many on-surface similar offers.
 Couldn't an offer that separates itself from the others because it values the user's experience, the speed of the offering, the low barrier for entry, the usability for disabled users more than anything else? Doesn't a crowd, that's composed of these millions of users, who stand behind this description I just made, look large enough to be able to finance an online-venture like that?
 
-I am not sure. But I'd like to find out if it's possible. And that starts with saying no to requests for trackers, beacons, advertisment-networks etc and offering an alternative and a healthy discussion about the pros and cons.
+I am not sure. But I'd like to find out if it's possible. And that starts with saying no to requests for trackers, beacons, advertisement-networks etc and offering an alternative and a healthy discussion about the pros and cons.
 
 With my clients, I'll certainly do that even more now. So thanks for the article and the initiative, Nick Heer.
 
