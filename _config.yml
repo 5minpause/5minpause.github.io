@@ -16,9 +16,9 @@
 title: Holger Frohloff Consulting
 email: holger@holgerfrohloff.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Software projects can be fun. I like to have fun, and I like
-  creating software with you. Let's have fun together and create
-  something awesome for your business.
+  Creating software and doing successful projects with my clients is what I do.
+  I try to make the world better with every project and I only work on projects
+  that have a shot at doing so --- even if it's just something small.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.holgerfrohloff.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 5minpause

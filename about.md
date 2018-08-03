@@ -3,15 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
-You have software. Somewhere there's always software. You either write it
-yourself, or somebody did it for you. Or you're in the middle of a software
-project. Lots of project are run by capable people delivering real value and
-finishing projects on time and in the agreed-on budget.
 
-But sometimes they don't.
+Creating software and doing successful projects with my clients is what I do.
+I try to make the world better with every project and I only work on projects
+that have a shot at doing so --- even if it's just something small.
 
-Projects run late. It get's more expensive. There dissonance in the team about
-the architecture or even about smaller things.
+---
+
+So, you'd like to start a software project? If this is your first project, then
+please be aware that software, or IT, projects have a high tendency to run over
+budget and time. This means it get's more expensive. And projects run late.
+Sometimes there's dissonance in the team about the architecture or about smaller
+things.
 
 But it doesn't have to be that way. There are IT projects that are finished on
 time, on budget, with minimal stress and sometimes even fun :=)
@@ -26,4 +29,5 @@ Most of the time I look a lot like this:
 
 ![]({{ "/assets/profile-small.jpg" | absolute_url }})
 
-Feel free to reach out to me.
+Feel free to reach out to me. We can talk about your project and how it can
+be a success.
