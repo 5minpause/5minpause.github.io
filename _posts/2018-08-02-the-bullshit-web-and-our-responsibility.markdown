@@ -6,7 +6,7 @@ date: 2018-08-02 15:00:00 +0200
 ---
 
 > My home computer in 1998 had a 56K modem connected to our telephone line; we were allowed a maximum of thirty minutes of computer usage a day, because my parents — quite reasonably — did not want to have their telephone shut off for an evening at a time. I remember webpages loading slowly: ten to twenty seconds for a basic news article.
-
+<!--more-->
 > At the time, a few of my friends were getting cable internet. It was remarkable seeing the same pages load in just a few seconds, and I remember thinking about the kinds of the possibilities that would open up as the web kept getting faster.
 
 > And faster it got, of course. When I moved into my own apartment several years ago, I got to pick my plan and chose a massive fifty megabit per second broadband connection, which I have since upgraded.

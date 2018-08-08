@@ -5,7 +5,7 @@ categories: "newsletter"
 date: 2018-08-03 15:00:00 +0200
 ---
 
-Where I sit writing this email, today is Friday. So tomorrow the weekend starts. Do you already have plans for the weekend? Perhaps we'll go to the lake, because it's scorching hot in Europe these days. But I will also continue with my "Automation project: Factory 0.1".  
+Where I sit writing this email, today is Friday. So tomorrow the weekend starts. Do you already have plans for the weekend? Perhaps we'll go to the lake, because it's scorching hot in Europe these days. But I will also continue with my "Automation project: Factory 0.1".  <!--more-->
 Just a short detour what that's about:
 I have my website at holgerfrohloff.de and it's built using Jekyll, a static site generator. I write my newsletters on my Mac or iPad (or sometimes iPhone). I want my writing to appear as an email, sent to you. But it also should appear on my website, without me having to copy and paste markdown files, commit them and deploy it. Then it should ideally be distributed to LinkedIn, Xing (that's a German LinkedIn 😉) and perhaps Twitter. All automatically. I am building this with three iOS apps and a bit of IFTTT and perhaps Zapier. I'll tell you about it in detail once it's finished. It's a lot of fun for me.
 

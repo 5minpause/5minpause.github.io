@@ -8,6 +8,7 @@ Hi friend,
 
 In this enlightening article from the New York Times, Charlotte Graham-McLay reports about a company from New Zealand that tried something out. They switched all their employees to work only 32 hours per week instead of the regular 40 hours. All of them still received the same salary for 40 hours though. What they found was that their productivity increased and the employees got the same amount or work done. Sometimes even more.
 To reach this level of productivity, they reduced meeting times, didn’t leave early or took longer breaks.
+<!--more-->
 This experiment was studied by two researchers, one of them said:
 
 > They worked out where they were wasting time and worked smarter, not harder  […]

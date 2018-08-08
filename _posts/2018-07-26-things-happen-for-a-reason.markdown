@@ -7,7 +7,7 @@ date: 2018-07-26 15:00:00 +0200
 Hi friend,
 
 I am currently reading a very interesting book: “Principles” by Ray Dalio
-It was recommended to me by several sources, most notably by Sebastian Marshall. Sebastian focuses a lot on personal improvement in his work. I value his ideas and ideas very much. So it made sense to me to follow his recommendation to read this book.
+It was recommended to me by several sources, most notably by Sebastian Marshall. Sebastian focuses a lot on personal improvement in his work. I value his ideas and ideas very much. So it made sense to me to follow his recommendation to read this book.<!--more-->
 
 Ray Dalio writes about his personal journey towards being one of the most influential and successful investors in history. On his way he made several mistakes, but he often recovered and eventually found his way to success. His work and life principles made all the difference for him. He evaluated himself in several psychological tests, as well as all his partners and employees. This way they could find out how this group of people was “wired” and how they could best work together. Ray encourages the reader to take some of these tests as well, to find out how you, the reader, thinks. What are your weaknesses, what is against your personality? Where do you excel at?
 

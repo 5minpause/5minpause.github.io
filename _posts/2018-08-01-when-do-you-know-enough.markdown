@@ -12,7 +12,7 @@ Hi friend,
 This question was posed by Seth Godin. Seth is big in marketing and entrepreneurship. Perhaps you already know him.  
 
 This question is a deep one.
-
+<!--more-->
 As I already told you, I am an Architect personality. One of my traits is the constant urge to improve, to learn more and to get better. So my impulsive answer to this question is "never". This is only half the truth though. Of course it reads better if I tell you that I never stop learning. But it would be a lie.
 
 I've worked as a professional software developer for over 10 years now. I started as a novice, not even junior level, developer. I learned and evolved into a senior and now I am at a level where I can work as an independent consultant with my clients.  

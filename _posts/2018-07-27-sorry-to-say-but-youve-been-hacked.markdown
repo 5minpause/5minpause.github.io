@@ -6,7 +6,7 @@ date: 2018-07-27 15:00:00 +0200
 ---
 Hi friend,
 
-Please excuse this email’s subject line. Did you receive an email like that before? As I wrote a few days ago, I did. More than a few times. That’s why I see that I use two-factor authentication for every service that offers it. If you do not know U2F (Universal two factor), this means that after providing a service with your login and password, you’ll also need to provide a one-time password (OTP) from a trusted source. This makes hacking into your accounts (for instance through social engineering) way harder. The OTP usually is in your hands and cannot be easily stolen, since this OTP only has a lifetime of a few seconds. Afterwards it’s invalid and a new one is needed.
+Please excuse this email’s subject line. Did you receive an email like that before? As I wrote a few days ago, I did. <!--more-->More than a few times. That’s why I see that I use two-factor authentication for every service that offers it. If you do not know U2F (Universal two factor), this means that after providing a service with your login and password, you’ll also need to provide a one-time password (OTP) from a trusted source. This makes hacking into your accounts (for instance through social engineering) way harder. The OTP usually is in your hands and cannot be easily stolen, since this OTP only has a lifetime of a few seconds. Afterwards it’s invalid and a new one is needed.
 
 This works because you can have an app on your phone, that presents you these OTP for your different accounts. This is the way I have done it the last few years.
 - Navigate to website or open an app

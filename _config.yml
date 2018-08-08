@@ -24,6 +24,8 @@ url: "https://www.holgerfrohloff.de" # the base hostname & protocol for your sit
 twitter_username: 5minpause
 github_username: 5minpause
 
+show_excerpts: true
+excerpt_separator: <!--more-->
 # Build settings
 markdown: kramdown
 theme: minima
