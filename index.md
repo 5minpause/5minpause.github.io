@@ -22,7 +22,7 @@ I write a newsletter every week-day. Below you'll find recent issues.
   </li>
   <li>
     <input type="hidden" name="fields[eu_consent]" id="drip-eu-consent-denied" value="denied" />
-    <input type="checkbox" name="fields[eu_consent]" id="drip-eu-consent" value="granted" />
+    <input type="checkbox" name="fields[eu_consent]" id="drip-eu-consent" value="granted" required="required"/>
     <label for="drip-eu-consent">
       My newsletter contains information about my products, offers, events, activities
       and my company. Information about data privacy, revocation, logging as well as
