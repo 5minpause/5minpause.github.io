@@ -9,7 +9,7 @@ Hi friend.
 
 A week ago I mentioned my Automation project: Factory 0.1. During the last week I managed to get it to a point where it works. Today I wanted to tell you a bit about it.
 **This will be a lengthy, nerdy post about details and automation.**
-<!-- more -->
+<!--more-->
 
 ### Writing the article
 
