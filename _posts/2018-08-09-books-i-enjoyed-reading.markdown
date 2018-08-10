@@ -10,7 +10,7 @@ Hi friend.
 Since I love reading I thought I switch things up for today and share a small list of books I enjoyed (and why I enjoyed them).
 
 All links are no affiliate links.
-
+<!--more-->
 ## [Principles by Ray Dalio](https://www.principles.com/)
 
 I mentioned the book before in one of my emails. Reading this book I had the feeling of finding something that speaks to me, more than once. The situation like there was a light bulb lighting up, because you see connections between things you were blind to, before. I know I'll re-read that book a few times, because I am certain that there are more lightbulbs hidden in it.
