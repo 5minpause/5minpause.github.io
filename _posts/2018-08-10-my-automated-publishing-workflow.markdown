@@ -22,7 +22,7 @@ Then the body of the article will begin.
 
 I aim for a length of about 2 minutes reading time. Earlier in my career I wrote really long articles (like this one 😉). But I noticed that people tend to not want to read such long articles. And since I write every week-day, I try to keep it short and on-point. This is usually harder than it sounds. Ulysses helps me reach the 2-minutes-marker with a visualisation of the goal.
 
-![](#)("/assets/ulysses-goal.png" | absolute\_url)
+![](https://www.holgerfrohloff.de/assets/ulysses-goal.png)
 
 Once I am done with the article, it's time to proof-read.
 
@@ -62,6 +62,8 @@ After automating this process, this is the remaining procedure:
 
 The rest happens automatically and I am left with an open Safari browser tab pointing at my website.
 
+Another thing that happens: IFTTT watches my site's RSS feed and publishes new articles to [LinkedIn](https://www.linkedin.com/in/holger-frohloff) automatically.
+
 At the end I show ideas for further reducing the amount of steps that I will probably explore.
 
 ### The Workflow workflow
@@ -70,8 +72,10 @@ Before going into the actions for Drafts, I want to make a quick detour to Workf
 
 As you saw in the original procedure in step 1, I needed to create a file with the title of the article as part of the filename. In Rails you call this a [parameterized string](http://api.rubyonrails.org/classes/String.html#method-i-parameterize). Workflow creates it for me:
 
-![](#)("/assets/parameterize-text.png" | absolute\_url)
+![](https://www.holgerfrohloff.de/assets/parameterize-text.PNG)
 
+It gets the document's title as input. This is the first line in a Drafts document.
+It returns the parameterized title.  
 I will then use that output inside an action in Drafts.
 
 ### The Drafts actions
@@ -105,3 +109,17 @@ At the end you see the "Commit in Working Copy" action being called as `x-succes
 The last step is opening the Safari browser at https://www.holgerfrohloff.de and that is simply another `x-success={{https://www.holgerfrohloff.de}}` parameter. Since Safari is registered as the receiving app for http|https protocols, it gets used to open that URL.
 
 And that's the thing about x-callback-urls. There is probably a lot to say about it, but the essence is that apps can register for a certain protocol. Working copy registered for the protocol `working-copy://`, Drafts for `drafts5://`. Numerous other apps offer this as well. [This website](http://x-callback-url.com/) offers the spec for app authors to implement and shows a comprehensive list of x-callback-urls for different apps.
+
+This is how it looks on my iPad:
+\<iframe src="https://player.vimeo.com/video/284349596" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen\>\</iframe\>
+\<p\>\<a href="https://vimeo.com/284349596"\>Automating publishing to a Jekyll website using iOS\</a\>\</p\>
+
+## Next steps
+
+I have some ideas/things I'd like to try out:
+- Automating the removal of the date. If you looked at the video, you saw that I manually remove the date from the beginning of the article. This could be automated.
+- Wrap everything into a workflow that I can access/start from the share sheet on iOS. This would essentially remove everything after Ulysses. I would only need to call the action from the share sheet in Ulysses and I would be done.
+- Try to improve usage of callback-urls in Drafts. While searching for ways to chain actions in Drafts, I created a topic on the forums: [https://forums.getdrafts.com/t/chaining-x-callback-urls-does-not-work-as-expected/2157/2](https://forums.getdrafts.com/t/chaining-x-callback-urls-does-not-work-as-expected/2157/2). The support then pointed out that using `Call URL` action steps might not be the optimal way. I should change those to use the `Call Callback-URL` action steps inside Drafts.
+- Support drafting of articles. Sometimes I write these articles a few days in advance. I cannot, currently, publish them without running through the pushing to `origin/master` step.
+
+**The big thing remaining is publishing to Drip.** Since I use Drip to send these articles as newsletters to my readers, I have to create the on their website and schedule them. Drip offers a REST API that I could probably use from within Workflow app.  An alternative would be to use Zapier to create these POST requests after pushing to GitHub. That might also work.
