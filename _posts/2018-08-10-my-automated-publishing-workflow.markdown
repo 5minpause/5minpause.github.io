@@ -8,7 +8,8 @@ date: 2018-08-10 15:00:00 +0200
 Hi friend.
 
 A week ago I mentioned my Automation project: Factory 0.1. During the last week I managed to get it to a point where it works. Today I wanted to tell you a bit about it.
-**This will be a lengthy, nerdy post about details and automation.** Perhaps you should read it in your browser? -\> [Follow this link](test.com)
+**This will be a lengthy, nerdy post about details and automation.**
+<!-- more -->
 
 ### Writing the article
 
@@ -22,7 +23,7 @@ Then the body of the article will begin.
 
 I aim for a length of about 2 minutes reading time. Earlier in my career I wrote really long articles (like this one 😉). But I noticed that people tend to not want to read such long articles. And since I write every week-day, I try to keep it short and on-point. This is usually harder than it sounds. Ulysses helps me reach the 2-minutes-marker with a visualisation of the goal.
 
-![](https://www.holgerfrohloff.de/assets/ulysses-goal.png)
+<img src="https://www.holgerfrohloff.de/assets/ulysses-goal.png" style="height: 450px;" />
 
 Once I am done with the article, it's time to proof-read.
 
@@ -72,7 +73,7 @@ Before going into the actions for Drafts, I want to make a quick detour to Workf
 
 As you saw in the original procedure in step 1, I needed to create a file with the title of the article as part of the filename. In Rails you call this a [parameterized string](http://api.rubyonrails.org/classes/String.html#method-i-parameterize). Workflow creates it for me:
 
-![](https://www.holgerfrohloff.de/assets/parameterize-text.PNG)
+<img src="https://www.holgerfrohloff.de/assets/parameterize-text.PNG" style="height: 450px;" />
 
 It gets the document's title as input. This is the first line in a Drafts document.
 It returns the parameterized title.  
@@ -91,17 +92,21 @@ I researched how other solved that, and stumbled upon this article [Automating i
 Use an `x-success` x-callback-url to call another Action in Drafts, with the `runAction` action. Puh. Here's the docs from [Drafts](https://getdrafts.com/urls/#runaction).
 
 What happens is essentially this: Once the action is finished it returns to Drafts (specified so in the `x-success` callback) and executes the action `runAction` with its given parameters. In URL this looks like this:
-	working-copy://x-callback-url/commit/?repo={{5minpause.github.io}}&limit={{3}}&message={{broadcast}}&key={{secret-key}}&x-success=drafts5%3A%2F%2Fx-callback-url%2FrunAction%3Ftext%3D%26action%3DPush-in-Working-Copy%26allowEmpty%3Dtrue
+```
+working-copy://x-callback-url/commit/?repo={{5minpause.github.io}}&limit={{3}}&message={{broadcast}}&key={{secret-key}}&x-success=drafts5%3A%2F%2Fx-callback-url%2FrunAction%3Ftext%3D%26action%3DPush-in-Working-Copy%26allowEmpty%3Dtrue
+```
 
 The start is the x-callback-url for Working copy app. I execute the `commit` action on the `repo` 5minpause.github.io (my website) with the `limit` of 3 ([only changes with three files get committed](https://workingcopyapp.com/url-schemes.html#committing)) a `message` that serves as the commit message and the secret `key` needed to do this at all via x-callback-url. This is a requirement and safety mechanism by Working Copy.  
 The value passed to the `x-success` parameter is url-encoded. This is needed for Drafts to be able to run it. Without encoding it would look like this:
-	drafts5://x-callback-url/runAction?text=&action=Push-in-Working-Copy&allowEmpty=true
+	`drafts5://x-callback-url/runAction?text=&action=Push-in-Working-Copy&allowEmpty=true`
 
 Again, `drafts://x-callback-url/runAction` just opens Drafts and tells it to use the `runAction` action. The param `text` is left empty (but it is required!). You could specify text to be included in your document (that is created as part of the action). I do not need that. `action` has the name of the Action I want to run in Drafts. You noticed, that is the name of one of my actions from above. The last param `allowEmpty=true` is decisive. It allows me to leave the `text` blank and essentially leads to the action being executed just on any document that happens to be active in Drafts. Since the "Push in Working Copy" action is document-agnostic that's exactly what I want.
 
 But this was already the last step in the chain. I used that because it was easier to describe. The first step actually looks like this:
 
-	working-copy://x-callback-url/write/?repo={{5minpause.github.io}}&path={{_posts/}}[[date]]-[[workflow_result]].markdown&text=---%0a{{layout: post}}%0a{{title: "}}[[title]]{{"}}%0a{{categories: "newsletter"}}%0a{{date: }}[[date]]{{ 15:00:00 +0200}}%0a---%0a[[body]]&key={{secret-key}}&x-success=drafts5%3A%2F%2Fx-callback-url%2FrunAction%3Ftext%3D%26action%3DCommit-in-Working-Copy%26allowEmpty%3Dtrue
+```
+working-copy://x-callback-url/write/?repo={{5minpause.github.io}}&path={{_posts/}}[[date]]-[[workflow_result]].markdown&text=---%0a{{layout: post}}%0a{{title: "}}[[title]]{{"}}%0a{{categories: "newsletter"}}%0a{{date: }}[[date]]{{ 15:00:00 +0200}}%0a---%0a[[body]]&key={{secret-key}}&x-success=drafts5%3A%2F%2Fx-callback-url%2FrunAction%3Ftext%3D%26action%3DCommit-in-Working-Copy%26allowEmpty%3Dtrue
+```
 
 It starts with Working Copy and the [`write` action](https://workingcopyapp.com/url-schemes.html#writing). I specify the `path`. Notice the `[[date]]` value. This is Drafts-magic, as it automatically replaces/interprets certain values in the URL. The other one is `[[workflow_result]]` that is provided by an earlier action step in this action, the Workflow "parameterize text" workflow. The value for the `text` param is the contents of the document. It starts with the YAML front matter. Everything written in `{{ }}` is put like that into the document, including spaces, without escaping/interpreting it. `%0a` means line-break.  
 At the end you see the "Commit in Working Copy" action being called as `x-success` parameter.
