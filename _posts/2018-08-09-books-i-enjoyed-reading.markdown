@@ -2,7 +2,7 @@
 layout: post
 title: "Books I enjoyed reading"
 categories: "newsletter"
-date: 2018-08-10 15:00:00 +0200
+date: 2018-08-09 15:00:00 +0200
 ---
 
 Hi friend.
@@ -21,7 +21,7 @@ I read the book too early in my career. I wasn't ready for it. I put it down.
 A few years later somehow I remembered it, perhaps I found the ebook on my computer somewhere. I started reading it again. And I couldn't put it down.
 Please let me quote from its website, because I definitely couldn't put it any better:
 
-> Confident Ruby is, first and foremost, a book about joy. It’s about the joy I found when I first discovered how elegantly and succinctly I could state problems in Ruby code. It’s about the joy I gradually lost as the “real world” snuck in and cluttered my code with distracting edge case scenarios, error handling, and checks for nil. And it’s about how I came to recapture that joy, by employing small patterns and stylistic choices to make each method tell a coherent story. 
+> Confident Ruby is, first and foremost, a book about joy. It’s about the joy I found when I first discovered how elegantly and succinctly I could state problems in Ruby code. It’s about the joy I gradually lost as the “real world” snuck in and cluttered my code with distracting edge case scenarios, error handling, and checks for nil. And it’s about how I came to recapture that joy, by employing small patterns and stylistic choices to make each method tell a coherent story.
 
 ## [Sapiens by Yuval Noah Harari](http://www.ynharari.com/book/sapiens/)
 
