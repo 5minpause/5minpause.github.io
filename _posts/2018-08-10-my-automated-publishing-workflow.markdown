@@ -111,9 +111,8 @@ The last step is opening the Safari browser at https://www.holgerfrohloff.de and
 And that's the thing about x-callback-urls. There is probably a lot to say about it, but the essence is that apps can register for a certain protocol. Working copy registered for the protocol `working-copy://`, Drafts for `drafts5://`. Numerous other apps offer this as well. [This website](http://x-callback-url.com/) offers the spec for app authors to implement and shows a comprehensive list of x-callback-urls for different apps.
 
 This is how it looks on my iPad:
-\<iframe src="https://player.vimeo.com/video/284349596" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen\>\</iframe\>
-\<p\>\<a href="https://vimeo.com/284349596"\>Automating publishing to a Jekyll website using iOS\</a\>\</p\>
-
+<iframe src="https://player.vimeo.com/video/284349596" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/284349596">Automating publishing to a Jekyll website using iOS</a></p>
 ## Next steps
 
 I have some ideas/things I'd like to try out:
