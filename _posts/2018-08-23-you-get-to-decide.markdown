@@ -2,7 +2,7 @@
 layout: post
 title: "You get to decide"
 categories: "newsletter"
-date: 2018-08-24 15:00:00 +0200
+date: 2018-08-23 15:00:00 +0200
 ---
 
 Hi friend.
