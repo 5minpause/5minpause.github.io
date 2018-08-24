@@ -2,7 +2,7 @@
 layout: post
 title: "Why are our estimates off, always?"
 categories: "newsletter"
-date: 2018-08-24 15:00:00 +0200
+date: 2018-08-21 15:00:00 +0200
 ---
 
 Hi friend.
