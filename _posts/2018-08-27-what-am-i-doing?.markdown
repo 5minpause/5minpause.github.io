@@ -10,7 +10,7 @@ Hi friend.
 My freelancing since January couldn't go any better. I am happy, I am learning and I am challenged. But I already know, that freelancing for clients isn't everything I want to do. This is, and always was, supposed to be the first step into the "right" direction.
 
 I read lots of articles by other freelancers and entrepreneurs who shared the "why" behind what they do. Today I want to do a bit of the same. Perhaps you'll find it interesting as well?
-
+<!--more-->
 For a few years now I ran a small/tiny SaaS for German companies doing telesales. I have prior experience as I worked in this industry for 6 years during university. So I created **the** application to do telesales. It was designed and developed to support the telesales marketer in the right way. The way I always wanted to be supported while calling companies (strictly B2B! 😚).
 I will close that company towards the end of the year. I just do not have any interest in it anymore. You do need a certain amount of passion and interest in the market and the topic if you want to have some success marketing your product. I lack both these days.
 
