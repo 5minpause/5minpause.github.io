@@ -8,7 +8,7 @@ date: 2018-08-29 15:00:00 +0200
 Hi friend.
 
 When developing software you usually optimise for some aspect of the creation process. There are many things when considering a software development project like accessibility, usability, user satisfaction, delivery/deployment speed (release cycle), correctness of the code/app, developer happiness and many more. Some of these are first level concerns, some are on lower levels.  
-
+<!--more-->
 The top three aspects that usually directly affect a software development project are  
 
 a) price
