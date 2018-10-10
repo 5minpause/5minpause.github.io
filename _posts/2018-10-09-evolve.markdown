@@ -2,9 +2,8 @@
 layout: post
 title: "Evolve"
 categories: "newsletter"
-date: 2018-10-10 15:00:00 +0200
+date: 2018-10-09 15:00:00 +0200
 ---
-
 Since I strongly believe that you can only achieve high-quality work if you trust your teammates, I am trying something today. I trust you.
 
 I will show you a skeleton in my closet.
@@ -23,11 +22,11 @@ Side-note regarding quality: Above all else, we had too few tests. Changing thin
 
 What would I recommend doing differently nowadays? The idea to have an underlying CMS that works with any kind of app and provides management capability for any kind of content you could throw at it is still a good idea.  
 First of all I would provide an API with a strong contract. Then you could test against the API and it could evolve and things still would work. As long as you fulfill the contract. The content is only provided via this API. The users of your engine won't ever have a way to access content directly.
-Second, I would use a document-based database. It lends itself beautifully for this task and you don't need a relational database for that. Save your content as JSON. Save your attachments/media-objects in there as well. 
+Second, I would use a document-based database. It lends itself beautifully for this task and you don't need a relational database for that. Save your content as JSON. Save your attachments/media-objects in there as well.
 
-This email is getting long so I will make a cut here. My laundry list for things to improve or do differently is longer than what I hinted at above. I am dreaming of creating this CMS at some point. Because I can and because I'd like to make it better than last time. You probably know that feeling. If I ever get around to doing it? I don't know. 🤔 
+This email is getting long so I will make a cut here. My laundry list for things to improve or do differently is longer than what I hinted at above. I am dreaming of creating this CMS at some point. Because I can and because I'd like to make it better than last time. You probably know that feeling. If I ever get around to doing it? I don't know. 🤔
 
-Anyway, I promised to show you my skeleton, so here it is: [https://github.com/5minpause/Goldencobra](https://github.com/5minpause/Goldencobra)
+Anyway, I promised to show you my skeleton, so here it is: [https://github.com/5minpause/Goldencobra]
 
 Dare to show me your skeletons?
 

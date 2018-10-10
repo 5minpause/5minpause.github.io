@@ -7,7 +7,7 @@ date: 2018-10-10 15:00:00 +0200
 
 Today I want to share a small little idea with you. An idea that can have grave consequences if misregarded:
 
-When you schedule a meeting with your team, also share with the team who is responsible for taking minutes/notes. One person **has** to be responsible for that. And they should share it with the team afterwards and ideally post it to the Wiki or wherever you store your team's knowledge. Make clear well **before** the meeting starts, who is responsible.
+When you schedule a meeting with your team, also share with the team who is responsible for taking minutes/notes. One person **has** to be responsible for that. <!--more-->And they should share it with the team afterwards and ideally post it to the Wiki or wherever you store your team's knowledge. Make clear well **before** the meeting starts, who is responsible.
 
 If you fail to do that, nobody will be responsible. People will leave after the meeting concludes and noone will remember everything that has been said. If you're lucky a few will remember the key points.  
 Good luck having successful projects that way.

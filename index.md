@@ -5,13 +5,10 @@
 layout: home
 ---
 
-<h2>I help companies automate and improve their workflows and systems.</h2>
-<br />
-<h3>If your company is helping make the world a better place, then you deserve to do
-so with minimal overhead and optimal efficiency. I'll help you get there.</h3>
+<h2>I help companies increase their software quality, lower technical debt and save money developing software</h2>
 
 <div style="margin-top: 40px">
-I write a newsletter every week-day. Below you'll find recent issues.
+I write a newsletter about these topics every week-day. Below you'll find recent issues.
 <form action="https://www.getdrip.com/forms/423308711/submissions" method="post" data-drip-embedded-form="423308711" class="form-style-9">
   <h3 data-drip-attribute="headline">Learn software development&#39;s non obvious lessons</h3>
   <div data-drip-attribute="description">You'll receive an email every week day</div>
