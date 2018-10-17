@@ -2,7 +2,7 @@
 layout: post
 title: "Two views on quality"
 categories: "newsletter"
-date: 2018-10-17 15:00:00 +0200
+date: 2018-10-16 15:00:00 +0200
 ---
 
 During the last months I wrote a lot about quality and how to develop high-quality software. These letters dealt with topics like linting your code, testing and documenting it.  
