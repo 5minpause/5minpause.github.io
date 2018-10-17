@@ -4,9 +4,6 @@ title: "Maintenance and janitorial activities"
 categories: "newsletter"
 date: 2018-08-08 15:00:00 +0200
 ---
-
-Hi friend,
-
 You walk into a room. You haven't been here before but you need to find something. Your friend told you, that you'll find it there: "It has to be there somewhere. Please just take a thorough look around!". You find old snack boxes , papers upon papers and stuff that you wouldn't want to touch because it looks like it might already be alive. A distinctive smell permeates the room. You don't want to be in here for too long. But you want to find the thing...! After looking around for 10-15 minutes you notice that you lost track of where you've already searched before. The whole mess is just too much for you.  
 <!--more-->
 Do you know that feeling? I hope 🤞 you don't experience that too often. But that's what I felt the other day when I had to look into an older code base that I worked with a while ago. These are the distinctive characteristics of a code base that wasn't looked after enough. A code base where refactorings did not happen consistently. Where technical debt was piled sky high and where things were just left how they always were. Because the cost of cleaning up was thought to be too high.  

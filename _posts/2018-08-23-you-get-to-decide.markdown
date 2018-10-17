@@ -4,9 +4,6 @@ title: "You get to decide"
 categories: "newsletter"
 date: 2018-08-23 15:00:00 +0200
 ---
-
-Hi friend.
-
 Yesterday I got my hair cut. The hairdresser was rather chatty and told me all sorts of things. When her friend came in they went on to lamenting about how bad it is for them. Both dislike their jobs, the payment is bad and they‘d rather do something else. But they don‘t know what…
 <!--more-->
 This made me again realise how great your and my job are. We get to do what we love. We can be creative, get lost in the details and sometimes even improve the world—if just a tiny bit. 

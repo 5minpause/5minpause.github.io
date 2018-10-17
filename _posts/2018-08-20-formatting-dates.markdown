@@ -4,9 +4,6 @@ title: "Formatting dates"
 categories: "newsletter"
 date: 2018-08-20 15:00:00 +0200
 ---
-
-Hi friend.
-
 When was the last time you needed to display a formatted date somewhere in your applications? Since I work a lot on React (or generally JS) apps these days, I recently had the "pleasure" to format dates in JS. After receiving them from a Ruby API. Which in turn takes the (Postgres) db timestamps and converts them into Ruby (date)time objects. Oh the fun we had. "Of course" standardizations saves your ass in this situation. Usually at least.
 <!--more-->
 What I did not run into (because of my luck working with Ruby and JS) is the nice little thing, Peter Hosey describes in his article ["Unicode date formats, YYYY?!"](https://boredzo.org/blog/archives/2015-10-24/the-international-standards-organization-hates-your-guts). You should click that link, if only just to see the url of the article. It's not the title I've mentioned above…

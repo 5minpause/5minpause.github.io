@@ -4,9 +4,6 @@ title: "Spaghetti wirings no-one knew about"
 categories: "newsletter"
 date: 2018-08-06 15:00:00 +0200
 ---
-
-Hi friend,
-
 Over the course of the weekend we tried to install a new door bell for our house. The old system is really old, falls apart and works only some days. So we bought something from a respectable German engineering company named Gira. They make high quality products and we had prior experiences with their parts. We also happen to really like their clean design language. The reviews online spoke about easiness of installation, "connect just a few wires", nothing can go wrong there.
 <!--more-->
 So… how hard can it be?! (Queue picture of Jeremy Clarkson here, before he got old and rich 😉)

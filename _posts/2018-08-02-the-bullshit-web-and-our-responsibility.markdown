@@ -13,8 +13,6 @@ date: 2018-08-02 15:00:00 +0200
 
 > So, with an internet connection faster than I could have thought possible in the late 1990s, what’s the score now? A story at the Hill took over nine seconds to load; at Politico, seventeen seconds; at CNN, over thirty seconds. This is the bullshit web.
 
-Hi friend
-
 Do you also build products and things for and on the internet, like me?  
 I do not necessarily want to make quoting people a regular thing here, but the article ["The Bullshit Web"](https://pxlnv.com/blog/bullshit-web/) makes the rounds on the internet these days. And it spoke to me. You see I do build websites and web apps. And I built them for bigger corporations. And integrating trackers and ad-networks and all this nasty things that slow down the web-experience for our users and makes the web slow and bad…well I included some of them during the last years.  
 Of course it seems like it isn't always easy to say no to requests like that. The executives of your clients want to have these things, because that's what their "business models" forces upon them. And most of the times, if you don't include them, somebody else will. Perhaps you risk the well-being of your employer and the other employees, if you do not do that. Because BigCorp™ will just go somewhere else instead. But perhaps we'll have to find a way. At least in Germany right now, the market for developers is a sellers-market. That means we as developers can almost freely choose where we want to work. Everybody is looking to hire new devs, the salaries went through the roof and it's easy to find new work if you accept the many recruiters' offers.  

@@ -4,9 +4,6 @@ title: "Daylight saving time"
 categories: "newsletter"
 date: 2018-08-24 15:00:00 +0200
 ---
-
-Hi friend.
-
 Did you hear about the [European Union polling its citizen about whether DST is really necessary](https://www.theverge.com/2018/7/5/17536400/european-union-polling-citizens-daylight-saving-time-necessary)?
 
 Because I  thought it's funny I sent this issue an hour later than usual.

@@ -4,9 +4,6 @@ title: "When do you know enough?"
 categories: "newsletter"
 date: 2018-08-01 15:00:00 +0200
 ---
-
-Hi friend,  
-
 > “When did you reach the point where you didn't need to read another research report, didn't need to absorb another scouting analysis, didn't need to stop by the bookstore… because it simply wasn't useful or efficient to learn another thing about your field?”
 
 This question was posed by Seth Godin. Seth is big in marketing and entrepreneurship. Perhaps you already know him.  

@@ -4,8 +4,6 @@ title:  "GDPR, or: How I stopped worrying and love my users"
 date:   2018-07-20 16:31:59 +0200
 categories: newsletter
 ---
-Hey friend,
-
 A few days ago I received an email from my bank where I keep my business account ([n26](https://n26.com) if you want to know), informing me that my personal details including email address, first and last name and telephone number were stolen during [a hack that occured at Typeform](https://latesthackingnews.com/2018/07/02/typeform-breach-exposed-user-data/).  
 <!--more-->
 This marks the latest installment in a series of emails and events that date back to around 2009. Since then I received emails about hacks at companies that kept my data almost yearly. I am fed up with that. But there is little I can do myself. Gladly the EU has my back, well more or less…. The GDPR came into force on May 25th and now things will change? Depends on the people! Everywhere you could hear developers screaming and cursing about this regulation and the amounts of work they had to do to appropriately deal with it. While I do understand them (I had to do the same work on my business and websites and on my clients’s) my standpoint is a little different. I am an optimistic person who always sees the light and tries to find ways to optimize or at least improve situations. And the GDPR represents on of those. You see, you have to deal with these things required by the regulation anyway. You can’t escape them. So let’s take the opportunity and do the work necessary to fulfill the requirements, and then some.

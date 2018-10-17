@@ -4,9 +4,6 @@ title: "Reading Code"
 categories: "newsletter"
 date: 2018-08-17 15:00:00 +0200
 ---
-
-Hi friend.  
-
 _ This is another email I am sending while being happily busy with our newborn._
 
 Two days ago I linked you to an article about Livable Code. Today it's about reading code. While learning software development I often heard the phrase that you should read other people's code because it makes you better.  

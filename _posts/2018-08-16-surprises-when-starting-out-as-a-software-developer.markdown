@@ -4,9 +4,6 @@ title: "Surprises when starting out as a software developer"
 categories: "newsletter"
 date: 2018-08-16 15:00:00 +0200
 ---
-
-Hi friend.
-
 _ This is another email I am sending while being happily busy with our newborn._
 
 > My first job was as a software developer at Ericsson in Montreal, working with the mobile switching center that handles calls in a cellular network. There was a lot of code controlling call set-up, hand-offs, roaming etc, but I was pretty disappointed to see that it was all done with quite basic data structures and algorithms. The most interesting part I found was the code keeping track of roaming subscribers currently in the system. It consisted of one thousand binary trees, where the last three digits of the subscriber number determined which tree a given subscriber belonged to. To find a subscriber, you picked the tree based on the last three digits of the number, then traversed the tree to find the subscriber. Apart from that, it was pretty much only linked lists or simpler.

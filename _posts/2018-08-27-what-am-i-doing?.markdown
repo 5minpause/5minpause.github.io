@@ -4,9 +4,6 @@ title: "What am I doing?"
 categories: "newsletter"
 date: 2018-08-27 15:00:00 +0200
 ---
-
-Hi friend.
-
 My freelancing since January couldn't go any better. I am happy, I am learning and I am challenged. But I already know, that freelancing for clients isn't everything I want to do. This is, and always was, supposed to be the first step into the "right" direction.
 
 I read lots of articles by other freelancers and entrepreneurs who shared the "why" behind what they do. Today I want to do a bit of the same. Perhaps you'll find it interesting as well?

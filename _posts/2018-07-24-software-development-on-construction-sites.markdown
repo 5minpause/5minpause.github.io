@@ -4,8 +4,6 @@ title: "Software development on construction sites"
 date: 2018-07-24 15:00:00 +0200
 categories: newsletter
 ---
-Hey friend,
-
 A few days ago, a friend told me about the construction site that is located right outside the window of his living room. He was, understandably, complaining about the construction workers starting their shifts at seven in the morning. They make all kinds of noises and it’s costing him his nerves.
 <!--more-->
 While I couldn’t do anything to improve his situation, I absolutely understood what he was going through. And after a couple of days I happened to be on my way to passing the construction site. I was doing some running and it was convenient to just pass along there. I thought, I should really check out this site. After all, they must’ve already finished a lot, if they’re always building and doing things.

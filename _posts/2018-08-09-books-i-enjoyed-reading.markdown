@@ -4,9 +4,6 @@ title: "Books I enjoyed reading"
 categories: "newsletter"
 date: 2018-08-09 15:00:00 +0200
 ---
-
-Hi friend.
-
 Since I love reading I thought I switch things up for today and share a small list of books I enjoyed (and why I enjoyed them).
 
 All links are no affiliate links.

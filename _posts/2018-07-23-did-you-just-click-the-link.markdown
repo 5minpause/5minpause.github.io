@@ -4,8 +4,6 @@ title: "Did you just click the link?"
 date: 2018-07-23 15:00:00 +0200
 categories: newsletter
 ---
-Hey friend,
-
 perhaps you remember one of my last newsletters, back when I wrote them from the 5minutenpause.com domain. I told you that I switched the content format to plain text and that I do not track click and open rates anymore. Well I do again.
 <!--more-->
 > Change your opinions, keep to your principles; change your leaves, keep intact your roots. — Victor Hugo

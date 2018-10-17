@@ -4,9 +4,6 @@ title: "Big Nerd Ranch"
 categories: "newsletter"
 date: 2018-08-15 15:00:00 +0200
 ---
-
-Hi friend.
-
 This is another email I am sending while being happily busy with our newborn.
 
 > Sometimes things don’t always go as planned. Code breaks, servers crash, or a product doesn’t work – you know the story.
