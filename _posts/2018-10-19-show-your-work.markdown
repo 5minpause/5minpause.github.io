@@ -2,7 +2,7 @@
 layout: post
 title: "Show your work"
 categories: "newsletter"
-date: 2018-10-22 15:00:00 +0200
+date: 2018-10-19 15:00:00 +0200
 ---
 
 I wanted to add something to the topic from two days ago: Quality in the eyes of your users.
