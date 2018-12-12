@@ -4,7 +4,15 @@ title: "Talks"
 permalink: /talks/
 ---
 
-This is a short list of talks I've given.
+This is a list of talks I've given.
+
+## Let's get Lucky - A web framework on Crystal
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/URYdfGOutV4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Date**: December, 6th 2018  
+**Location**: [Ruby User Group, Berlin](http://berlin.onruby.de/topics/let-s-get-lucky-rails-on-crystal-619)  
+This is the recording of my screen and the microphone from my laptop.
+
 
 ## GDPR, or: How I stopped worrying and love my users
 
