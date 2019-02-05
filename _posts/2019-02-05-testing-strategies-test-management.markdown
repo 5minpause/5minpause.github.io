@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Testing strategies - Test management"
-categories: article, testing
+categories: newsletter
 date: 2019-02-05 15:00:00 +0100
 ---
 

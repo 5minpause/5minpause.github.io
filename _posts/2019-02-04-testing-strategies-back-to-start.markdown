@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Testing strategies - Back to start"
-categories: article, testing
+categories: newsletter
 date: 2019-02-04 15:00:00 +0100
 ---
 
