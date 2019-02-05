@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Testing strategies"
-categories: article, testing
+categories: newsletter
 date: 2019-02-01 15:00:00 +0100
 ---
 
