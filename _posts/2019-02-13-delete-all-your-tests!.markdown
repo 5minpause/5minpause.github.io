@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "# Delete all your tests!"
+title: "Delete all your tests!"
 categories: "newsletter"
 date: 2019-02-13 15:00:00 +0200
 ---
@@ -13,7 +13,7 @@ Today I switched things up. I first recorded the video, of which I've embedded a
 [https://youtu.be/7FRYUE\_waWk](https://youtu.be/7FRYUE_waWk)
 
 The subject says it already: Delete all your tests!
-
+<!--more-->
 Don't worry, I still believe in test-driven design (or development, but for me, it's more design... perhaps a topic for a future video/email?).
 
 There is a point in every application's lifecycle where you reached a stable point for a majority of features. You used tests to keep your quality high. You passed acceptance tests from your clients and their users. The thing runs. Now your test suite is hundreds or thousands of tests long. It runs for minutes or even hours. For every commit, the whole suite is run. Future development could be faster, but CI takes ages.
